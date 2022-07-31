@@ -1,5 +1,5 @@
 <img width="150" align="right" title="Python icon" src="https://www.internetsociety.org/wp-content/uploads/2016/09/OpenSSL.png" alt_text="OPENSSL"></img>
-# OPENSLL Unrevoke Certificate
+# OPENSSL Unrevoke Certificate
 <p align="justify">Did you ever want to unrevoke certificate you have previously revoked using <b>openessl</b> without manually changing <i>index.txt</i> file? I know I have, especially when I was first learning to use <b>openssl</b>. Now you can unrevoke certificate simply by executing a python script.</p>
 
 > **_NOTE:_**
